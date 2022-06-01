@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Matthew,noc,nocrcmet,Research Creek (RC),atemp,53.6,82.04,70.8489005235602,71.42,NA
+Matthew,noc,nocrcmet,Research Creek (RC),bp,29.1164658634538,30.297661233168,29.9128450976682,30.0023623907394,NA
+Matthew,noc,nocrcmet,Research Creek (RC),intensprcp,0,0,0,0,NA
+Matthew,noc,nocrcmet,Research Creek (RC),maxwspd,2.68433022232717,47.4231672611133,14.8364289949566,14.0927336672176,NA
+Matthew,noc,nocrcmet,Research Creek (RC),rh,35,96,78.5724258289703,86,NA
+Matthew,noc,nocrcmet,Research Creek (RC),totprcp,0,0,0,0,0
+Matthew,noc,nocrcmet,Research Creek (RC),wspd,0.894776740775722,17.8955348155144,5.23397546404018,3.80280114829682,NA
